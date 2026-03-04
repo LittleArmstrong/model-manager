@@ -1,0 +1,15 @@
+
+
+[project]
+name = "model_manager"
+version = "0.1.0"
+description = 'Modelle trainieren und testen, Datensätze verwalten'
+readme = "README.md"
+requires-python = ">=3.8"
+license = "MIT"
+keywords = []
+dependencies = []
+
+[tool.pyside6-project]
+files = ["main.py"]
+icon = "logo.ico"
